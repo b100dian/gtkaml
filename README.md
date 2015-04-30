@@ -4,7 +4,7 @@ Source code has moved to github.com:
 
 **Gtkaml** is a markup language based on [Vala](http://live.gnome.org/Vala) which lets you create Gtk+ composite widgets through concise XML:
 
-![http://gtkaml.googlecode.com/svn/wiki/hello.png](http://gtkaml.googlecode.com/svn/wiki/hello.png)
+![http://gtkaml.googlecode.com/svn/wiki/hello.png](https://raw.githubusercontent.com/b100dian/gtkaml/wiki/hello.png)
 ```
 <HBox homogeneous="false">  
       <Label label="_Hello" with-mnemonic="true" expand="false" fill="false"/>  
